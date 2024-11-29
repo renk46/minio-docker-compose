@@ -1,0 +1,6 @@
+.idea
+.pki
+grafana
+prometheus
+
+minio_data/*
